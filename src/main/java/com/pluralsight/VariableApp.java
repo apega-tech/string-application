@@ -20,7 +20,7 @@ class VariableApp {
         int daysInWeek = 7;
         System.out.println("There are " + daysInWeek + " days in a week.");
 
-        double coffeePrice = 7.99;
+        double coffeePrice = 4.99;
         System.out.println("The price of the is $" + coffeePrice + ".");
 
         char favoriteLetter = 'P';
